@@ -76,11 +76,9 @@ $ cat about.txt
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-<!-- ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white) -->
 
 ### AI / ML / Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-<!-- ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black) -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Prophet](https://img.shields.io/badge/Prophet-FF6B35?style=flat-square&logoColor=white)
@@ -88,7 +86,6 @@ $ cat about.txt
 
 ### Systems & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-<!-- ![RFID](https://img.shields.io/badge/RFID-IoT-6C3483?style=flat-square&logoColor=white) -->
 ![8086 μP](https://img.shields.io/badge/8085_Microprocessor-2C3E50?style=flat-square&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat-square&logoColor=white)
 ![Logisim](https://img.shields.io/badge/Logisim-27AE60?style=flat-square&logoColor=white)
