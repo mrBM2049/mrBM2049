@@ -195,12 +195,6 @@ $ cat about.txt
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrBM2049&theme=github_dark" width="100%"/>
-
-</div>
-
 ---
 
 ## `> cp --profiles`
