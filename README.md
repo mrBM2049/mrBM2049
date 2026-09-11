@@ -184,8 +184,8 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrBM2049&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrBM2049&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrBM2049&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrBM2049&theme=github_dark" height="165"/>
 
 </div>
 
@@ -197,7 +197,7 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrBM2049&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrBM2049&theme=github_dark" width="100%"/>
 
 </div>
 
